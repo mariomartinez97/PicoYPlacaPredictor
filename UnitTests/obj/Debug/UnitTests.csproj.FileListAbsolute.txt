@@ -1,0 +1,9 @@
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\UnitTests\bin\Debug\UnitTests.dll
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\UnitTests\bin\Debug\UnitTests.pdb
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\UnitTests\bin\Debug\PicoYPlacaPredictor.exe
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\UnitTests\bin\Debug\PicoYPlacaPredictor.pdb
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\UnitTests\obj\Debug\UnitTests.dll
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\UnitTests\obj\Debug\UnitTests.pdb

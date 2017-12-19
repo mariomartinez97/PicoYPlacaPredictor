@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PicoYPlacaPredictor
 {
-    class CheckClass
+    public class CheckClass
     {
         public bool performCheck(string _plate, int _hour, int _minute, string _date)
         {

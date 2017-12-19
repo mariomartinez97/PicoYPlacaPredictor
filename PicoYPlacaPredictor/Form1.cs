@@ -22,20 +22,20 @@ namespace PicoYPlacaPredictor
 
         private void buttonCheck_Click(object sender, EventArgs e)
         {
-            if (checkData())
+            if (checkData(textBoxPlate.Text))
             {
                 bool temp = check.performCheck(textBoxPlate.Text, Int32.Parse(comboBoxHour.Text), Int32.Parse(comboBoxMinute.Text), dateTimePicker1.Text);
                 if (temp == true)
                 {
-                    labelResult.Text = "Your car has PICO y PLACA";
+                    labelResult.Text = "The car CANNOT be on the road";
                 }
-                else { labelResult.Text = "You can drive free"; }
+                else { labelResult.Text = "The car CAN be on the road"; }
             }
             
         }
-        private bool checkData()
+        public bool checkData(string _plate)
         {
-            if (textBoxPlate.Text == "")
+            if (_plate == "")
             {
                 labelPlateWarning.Text = "Please enter a valid plate number";
                 return false;
