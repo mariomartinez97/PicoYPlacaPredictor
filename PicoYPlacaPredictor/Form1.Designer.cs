@@ -225,7 +225,7 @@
             // labelPlateWarning
             // 
             this.labelPlateWarning.AutoSize = true;
-            this.labelPlateWarning.Location = new System.Drawing.Point(45, 136);
+            this.labelPlateWarning.Location = new System.Drawing.Point(12, 136);
             this.labelPlateWarning.Name = "labelPlateWarning";
             this.labelPlateWarning.Size = new System.Drawing.Size(0, 13);
             this.labelPlateWarning.TabIndex = 11;

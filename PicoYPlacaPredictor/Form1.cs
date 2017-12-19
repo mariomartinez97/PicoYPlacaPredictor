@@ -16,6 +16,8 @@ namespace PicoYPlacaPredictor
         public Form1()
         {
             InitializeComponent();
+            comboBoxMinute.SelectedIndex = 0;
+            comboBoxHour.SelectedIndex = 0;
         }
 
         private void buttonCheck_Click(object sender, EventArgs e)
@@ -38,12 +40,7 @@ namespace PicoYPlacaPredictor
                 labelPlateWarning.Text = "Please enter a valid plate number";
                 return false;
             }
-            if (comboBoxHour.Text == "" || comboBoxMinute.Text == "")
-            {
-                labelHourWarning.Text = "Please enter a valid hour";
-                return false;
-            }
-            return true;
+           return true;
         }
     }
 }
