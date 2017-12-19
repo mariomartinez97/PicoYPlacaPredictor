@@ -1,1 +1,9 @@
 D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\PicoYPlacaPredictor\bin\Debug\PicoYPlacaPredictor.exe.config
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\PicoYPlacaPredictor\bin\Debug\PicoYPlacaPredictor.exe
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\PicoYPlacaPredictor\bin\Debug\PicoYPlacaPredictor.pdb
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\PicoYPlacaPredictor\obj\Debug\PicoYPlacaPredictor.csprojResolveAssemblyReference.cache
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\PicoYPlacaPredictor\obj\Debug\PicoYPlacaPredictor.Form1.resources
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\PicoYPlacaPredictor\obj\Debug\PicoYPlacaPredictor.Properties.Resources.resources
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\PicoYPlacaPredictor\obj\Debug\PicoYPlacaPredictor.csproj.GenerateResource.Cache
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\PicoYPlacaPredictor\obj\Debug\PicoYPlacaPredictor.exe
+D:\Archivos\M4\PICOYPLACA\PicoYPlacaPredictor\PicoYPlacaPredictor\obj\Debug\PicoYPlacaPredictor.pdb

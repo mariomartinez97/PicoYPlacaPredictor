@@ -12,9 +12,38 @@ namespace PicoYPlacaPredictor
 {
     public partial class Form1 : Form
     {
+        CheckClass check = new CheckClass();
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void buttonCheck_Click(object sender, EventArgs e)
+        {
+            if (checkData())
+            {
+                bool temp = check.performCheck(textBoxPlate.Text, Int32.Parse(comboBoxHour.Text), Int32.Parse(comboBoxMinute.Text), dateTimePicker1.Text);
+                if (temp == true)
+                {
+                    labelResult.Text = "Your car has PICO y PLACA";
+                }
+                else { labelResult.Text = "You can drive free"; }
+            }
+            
+        }
+        private bool checkData()
+        {
+            if (textBoxPlate.Text == "")
+            {
+                labelPlateWarning.Text = "Please enter a valid plate number";
+                return false;
+            }
+            if (comboBoxHour.Text == "" || comboBoxMinute.Text == "")
+            {
+                labelHourWarning.Text = "Please enter a valid hour";
+                return false;
+            }
+            return true;
         }
     }
 }
